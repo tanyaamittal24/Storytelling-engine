@@ -6,7 +6,6 @@ A full-stack interactive prototype that generates dynamic story branches using a
 * **Tanya Mittal** 
 * **Khushi Nandwani** 
 
----
 
 ## Tech Stack
 * **Frontend:** React (Vite), JavaScript, HTML/CSS
