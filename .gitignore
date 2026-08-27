@@ -11,3 +11,4 @@ frontend/dist/
 # Editor / OS
 .vscode/
 .DS_Store
+frontend/.vite/
